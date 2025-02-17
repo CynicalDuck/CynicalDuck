@@ -1,13 +1,5 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
-
-🎓 My name is Marius Bekk, a fullstack developer working in an larger Norwegian company.
-
-👨‍💻 I have not dared myself to contribute to any Open Source projects yet, but I hope I will get there. I am currently working on a personal project aiming to help firefighters log and keep track of their missions.
-
-🎸 Outside the world of coding I am a firefighter part time and I also enjoy playing soccer.
-
 ## 🛠️ Skills
 
 ### Languages
